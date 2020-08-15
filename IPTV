@@ -1,0 +1,8 @@
+#EXTINF:0 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="EBox",Sony Ten 2 HD (S01)
+http://tv.ebox.live:8080/live/sonyten-2.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="EBox2",Sony Ten 2 HD (S02)
+http://103.49.168.172:8081/ebox/ten2/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="FTPBD",Sony Ten 2 HD (S03)
+http://otv.ftpbd.net/streams/112/index.m3u8
