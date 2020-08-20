@@ -1,43 +1,228 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/QTRyKv9.png",Sony Ten 2 HD (S01)
-http://tv.ebox.live:8080/live/sonyten-2.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/QTRyKv9.png",Sony Ten 2 HD (S02)
-http://103.49.168.172:8081/ebox/ten2/chunks.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/QTRyKv9.png",Sony Ten 2 HD (S03)
-http://otv.ftpbd.net/streams/112/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="ICC 2",Sony Ten 2
-http://103.205.133.14/hls/ten2.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="ICC 3",Sony Ten 2
-http://103.205.133.19/hls/ten2.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="CinemaBazar",Sony Ten 2
-http://103.81.104.222/live/sony-ten-02/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="AmrBD",Sony Ten 2
-http://ddn.amrbd.com:8081/live/ten2hd/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="BCN",Sony Ten 2
-http://103.244.140.20:8080/sonyten2/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Akamai",Sony Ten 2 UK
-https://bit.ly/2yApmiZ
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="ICC",Sony Ten 2 HD
-http://103.205.133.42:1935/local/sony_ten2_hd_720/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="KITV",Sony Ten 2 HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/159.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="EBox",Sony Ten 2 HD
-http://tv.ebox.live:8080/live/sonyten-2.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="EBox2",Sony Ten 2 HD
-http://103.49.168.172:8081/ebox/ten2/chunks.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="FTPBD",Sony Ten 2 HD
-http://otv.ftpbd.net/streams/112/index.m3u8
+#EXTINF:-1,71 Tv
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/86.m3u8
+#EXTINF:-1,Asian Tv
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/91.m3u8
+#EXTINF:-1,Channel 24
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/103.m3u8
+#EXTINF:-1,Channel 9
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/104.m3u8
+#EXTINF:-1,Colors
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/105.m3u8
+#EXTINF:-1,Colors Bangla
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/106.m3u8
+#EXTINF:-1,Ekushey Tv
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/113.m3u8
+#EXTINF:-1,Gaan Bangla
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/121.m3u8
+#EXTINF:-1,Gazi
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/122.m3u8
+#EXTINF:-1,HBO
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/124.m3u8
+#EXTINF:-1,History 18
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/128.m3u8
+#EXTINF:-1,Jamuna Tv
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/129.m3u8
+#EXTINF:-1,Masranga
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/130.m3u8
+#EXTINF:-1,MBC Bollywood
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/131.m3u8
+#EXTINF:-1,MBC Max
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/132.m3u8
+#EXTINF:-1,MBC2
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/133.m3u8
+#EXTINF:-1,Nagorik
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/136.m3u8
+#EXTINF:-1,Aljazeera
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/87.m3u8
+#EXTINF:-1,Animal Planet
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/89.m3u8
+#EXTINF:-1,AXN
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/92.m3u8
+#EXTINF:-1,B4U Music
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/93.m3u8
+#EXTINF:-1,BBC News
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/95.m3u8
+#EXTINF:-1,Discovery Channel
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/108.m3u8
+#EXTINF:-1,Disney Channel
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/111.m3u8
+#EXTINF:-1,National Geographic (dual language)
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/138.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/139.m3u8
+#EXTINF:-1,News 24
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/141.m3u8
+#EXTINF:-1,NTv
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/142.m3u8
+#EXTINF:-1,RTv
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/145.m3u8
+#EXTINF:-1,Somoy
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/146.m3u8
+#EXTINF:-1,Sony MAX HD
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/147.m3u8
+#EXTINF:-1,Cartoon Network
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/148.m3u8
+#EXTINF:-1,Sony Pix
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/149.m3u8
+#EXTINF:-1,Sony Ten 1
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/150.m3u8
+#EXTINF:-1,Star Movies
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/151.m3u8
+#EXTINF:-1,Star Plus
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/152.m3u8
+#EXTINF:-1,Warner
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/157.m3u8
+#EXTINF:-1,Zoom
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/159.m3u8
+#EXTINF:-1,Star Gold
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/161.m3u8
+#EXTINF:-1,MTV
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/163.m3u8
+#EXTINF:-1,CNN
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/173.m3u8
+#EXTINF:-1,NDTV
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/171.m3u8
+#EXTINF:-1,Desh Tv
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/176.m3u8
+#EXTINF:-1,Kids Channel
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/177.m3u8
+#EXTINF:-1,Zee Action
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/181.m3u8
+#EXTINF:-1,Zee Cinema
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/182.m3u8
+#EXTINF:-1,Zing
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/183.m3u8
+#EXTINF:-1,Sony
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/184.m3u8
+#EXTINF:-1,Sony Six
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/185.m3u8
+#EXTINF:-1,Sony Max 2
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/186.m3u8
+#EXTINF:-1,Zee ClassIc
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/189.m3u8
+#EXTINF:-1,Sony Aath
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/191.m3u8
+#EXTINF:-1,Zee Bangla
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/192.m3u8
+#EXTINF:-1,Star Jalsha HD
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/193.m3u8
+#EXTINF:-1,Sony Ten 2
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/196.m3u8
+#EXTINF:-1,Sony Ten 3
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/197.m3u8
+#EXTINF:-1,Star Sports Select 2
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/198.m3u8
+#EXTINF:-1,Star Sports 2
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/200.m3u8
+#EXTINF:-1,Nick
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/201.m3u8
+#EXTINF:-1,Jalsha Movies
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/203.m3u8
+#EXTINF:-1,ATN Bangla
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/204.m3u8
+#EXTINF:-1,Deepto TV
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/205.m3u8
+#EXTINF:-1,Colors Cineplex
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/206.m3u8
+#EXTINF:-1,Star Sports Select 1
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/212.m3u8
+#EXTINF:-1,Zee Tv
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/217.m3u8
+#EXTINF:-1,Boishakhi TV
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/219.m3u8
+#EXTINF:-1,SATV
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/220.m3u8
+#EXTINF:-1,ATN News
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/221.m3u8
+#EXTINF:-1,&Flix
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/634.m3u8
+#EXTINF:-1,&Tv
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/636.m3u8
+#EXTINF:-1,&Pictures
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/638.m3u8
+#EXTINF:-1,Channel I
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/643.m3u8
+#EXTINF:-1,Sangeet Bangla
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/644.m3u8
+#EXTINF:-1,Duronto 
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/645.m3u8
+#EXTINF:-1,DBC News
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/646.m3u8
+#EXTINF:-1,MyTv
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/647.m3u8
+#EXTINF:-1,Independent
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/648.m3u8
+#EXTINF:-1,Mastiii
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/654.m3u8
+#EXTINF:-1,Sony Sab
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/657.m3u8
+#EXTINF:-1,Star Sports 1
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/661.m3u8
+#EXTINF:-1,Ptv Sports
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/660.m3u8
+#EXTINF:-1,BTV
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/663.m3u8
+#EXTINF:-1,BTV World
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/664.m3u8
+#EXTINF:-1,Zee Bangla Cinema
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/667.m3u8
+#EXTINF:-1,BBC Earth
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/687.m3u8
+#EXTINF:-1,Saudi Quran
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/707.m3u8
+#EXTINF:-1,Saudi Sunnah
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/708.m3u8
+#EXTINF:-1,ATN Islam
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/713.m3u8
+#EXTINF:-1,UTV Movies
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/830.m3u8
+#EXTINF:-1,Zee Cinema HD
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/824.m3u8
+#EXTINF:-1,Star Gold Select HD
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/823.m3u8
+#EXTINF:-1,Star Gold 2
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/783.m3u8
+#EXTINF:-1,Zee TV HD
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/780.m3u8
+#EXTINF:-1,Star Bharat
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/774.m3u8
+#EXTINF:-1,Bijoy Tv
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/771.m3u8
+#EXTINF:-1,Ananda Tv
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/770.m3u8
+#EXTINF:-1,Cbeebies
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/766.m3u8
+#EXTINF:-1,Sky Sports Cricket
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/753.m3u8
+#EXTINF:-1,Sony Yay
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/734.m3u8
+#EXTINF:-1,9x Jalwa
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/722.m3u8
+#EXTINF:-1,9xM
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/721.m3u8
+#EXTINF:-1,Zee Bangla HD
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/865.m3u8
+#EXTINF:-1,Nat Geo IN
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/864.m3u8
+#EXTINF:-1,Star Jalsha 
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/863.m3u8
+#EXTINF:-1,Ren Tv
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/852.m3u8
+#EXTINF:-1,Ten Sports
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/786.m3u8
+#EXTINF:-1,Sky Football
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/194.m3u8
+#EXTINF:-1,Fox
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/117.m3u8
+#EXTINF:-1,Jalsha Movies HD
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/666.m3u8
+#EXTINF:-1,beIN Sports 1
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/640.m3u8
+#EXTINF:-1,beIN Sports 2
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/641.m3u8
+#EXTINF:-1,& Prive HD
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/829.m3u8
+#EXTINF:-1,HDL HD (dual language)
+http://bdvisioniptv.ddns.net:25461/live/jivHREWY6D/e933l5NQKZ/842.m3u8
