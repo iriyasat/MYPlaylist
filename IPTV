@@ -3,8 +3,10 @@
 #EXTINF:-1,SONY TEN 1 HD
 http://103.211.185.98:8082/20/index.m3u8?token=12f795e36a229f42ec0edea64d78c438fb163199-7849b8e7872a4201cb135a121a7874d2-1598056730-1598045930&remote=103.147.163.177
 
-#EXTINF:-1,SONY TEN 2 HD
+#EXTINF:-1,SONY TEN 2 HD (S01)
 http://mtv.sports.bdfun.club/live/my-stream-key/index.m3u8
+#EXTINF:-1,SONY TEN 2 HD (S02)
+http://103.211.185.98:8082/21/index.m3u8?token=431d55ede187b79b1dcdbbe28040c47dacb4cfc3-e1179ad6d1f0c85cff5c96d50df68213-1598058203-1598047403&remote=103.147.163.177
 
 #EXTINF:-1,SONY TEN 3
 http://103.84.253.5/live/fastfeed1006/index.m3u8
