@@ -1,6 +1,7 @@
 #EXTM3U
-
 #EXTINF:-1,SONY TEN 1 HD
-http://eglecome.club:80/v61607/30043316/110870
+
 #EXTINF:-1,SONY TEN 2 HD
 http://mtv.sports.bdfun.club/live/my-stream-key/index.m3u8
+#EXTINF:-1,SONY TEN 3
+http://103.84.253.5/live/fastfeed1006/index.m3u8
