@@ -1,42 +1,45 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagebb321a165fe5204d.png" group-title="Local",BTV World
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagebb321a165fe5204d.png" group-title="Local",BTV World
 https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8
 
-#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="Local",ATN Bangla
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="Local",ATN Bangla
 https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
 
-#EXTINF:0 tvg-language="Bangla" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/channel_i.jpg" group-title="Local",Channel I HD
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/channel_i.jpg" group-title="Local",Channel I HD
 https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="Local",NTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="Local",NTV
 https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
 
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="Local",RTV
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="Local",RTV
 https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="Local",Independent
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="Local",Independent
 https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
 
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="Local" group-title="News",JAMUNA TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="Local",JAMUNA TV
 https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
 
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Local",GTV
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Local",GTV
 http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 
-#EXTINF:-1 tvg-language="Bangla" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/asian_tv_bd.jpg" group-title="Local",Asian TV
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/asian_tv_bd.jpg" group-title="Local",Asian TV
 https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
 
-#EXTINF:-1 tvg-language="English" tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="Sports",SONY TEN 1 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sports",Sony Six HD
+http://103.211.185.98:8082/24/index.m3u8?token=ae628ce07bbe6f6a561110e43b27420409230b85-10cb21de9f23d50a2fb0430a25c3be9e-1598066288-1598055488&remote=103.147.163.177
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="Sports",Sony TEN 1 
 http://103.211.185.98:8082/20/index.m3u8?token=12f795e36a229f42ec0edea64d78c438fb163199-7849b8e7872a4201cb135a121a7874d2-1598056730-1598045930&remote=103.147.163.177
 
-#EXTINF:-1 tvg-language="English" tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports",SONY TEN 2 HD (S1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports",Sony TEN 2 HD (S1)
 http://mtv.sports.bdfun.club/live/my-stream-key/index.m3u8
-#EXTINF:-1 tvg-language="English" tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports",SONY TEN 2 HD (S2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports",Sony TEN 2 HD (S2)
 http://103.211.185.98:8082/21/index.m3u8?token=431d55ede187b79b1dcdbbe28040c47dacb4cfc3-e1179ad6d1f0c85cff5c96d50df68213-1598058203-1598047403&remote=103.147.163.177
-#EXTINF:-1 tvg-language="English" tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports",SONY TEN 2 HD (S3)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports",Sony TEN 2 HD (S3)
 http://dflix.live:8082/21/index.m3u8?token=542442e4d5cc426679b9de521886bd4a53ffe04f-73666938ded7beda7595d4e8f9de396d-1598058862-1598048062&remote=103.147.163.177
 
-#EXTINF:-1 tvg-language="Hindi" tvg-logo="https://i.imgur.com/E6iCIUM.png" group-title="Sports",SONY TEN 3 (S1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E6iCIUM.png" group-title="Sports",Sony TEN 3 (S1)
 http://103.84.253.5/live/fastfeed1006/index.m3u8
 
