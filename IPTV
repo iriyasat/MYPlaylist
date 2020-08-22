@@ -27,6 +27,9 @@ http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/asian_tv_bd.jpg" group-title="Local",Asian TV
 https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fbqlG1Y.png" group-title="Sports",ESPN
+http://103.211.185.98:8082/23/index.m3u8?token=4f363cf7a7c3750ac5f5dca5c76bbf7ca0f3607c-8ab5ed45e7a2a7b3653cee0aad831530-1598068545-1598057745&remote=103.147.163.177
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sports",Sony Six HD
 http://103.211.185.98:8082/24/index.m3u8?token=ae628ce07bbe6f6a561110e43b27420409230b85-10cb21de9f23d50a2fb0430a25c3be9e-1598066288-1598055488&remote=103.147.163.177
 
@@ -39,7 +42,11 @@ http://mtv.sports.bdfun.club/live/my-stream-key/index.m3u8
 http://103.211.185.98:8082/21/index.m3u8?token=431d55ede187b79b1dcdbbe28040c47dacb4cfc3-e1179ad6d1f0c85cff5c96d50df68213-1598058203-1598047403&remote=103.147.163.177
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports",Sony TEN 2 HD (S3)
 http://dflix.live:8082/21/index.m3u8?token=542442e4d5cc426679b9de521886bd4a53ffe04f-73666938ded7beda7595d4e8f9de396d-1598058862-1598048062&remote=103.147.163.177
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports",Sony TEN 2 HD (S4)
+http://otv.ftpbd.net/streams/112/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E6iCIUM.png" group-title="Sports",Sony TEN 3 (S1)
 http://103.84.253.5/live/fastfeed1006/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qzuDxLA.png" group-title="Sports",Bein Sports HD 1
+http://s3.bdiptv.design:8081/web/BeinSports1/chunks.m3u8?nimblesessionid=1765345
