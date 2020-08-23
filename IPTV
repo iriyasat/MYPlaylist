@@ -82,25 +82,22 @@ http://dflix.live:8082/23/index.m3u8?token=82358ca7ff6567581a1a0fe09f97f1608815c
 http://103.211.185.98:8082/23/index.m3u8?token=4f363cf7a7c3750ac5f5dca5c76bbf7ca0f3607c-8ab5ed45e7a2a7b3653cee0aad831530-1598068545-1598057745&remote=103.147.163.177
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sports",Sony Six HD
-http://103.211.185.98:8082/24/index.m3u8?token=ae628ce07bbe6f6a561110e43b27420409230b85-10cb21de9f23d50a2fb0430a25c3be9e-1598066288-1598055488&remote=103.147.163.177
+http://103.84.253.5/live/fastfeed1004/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="Sports",Sony TEN 1 
-http://103.211.185.98:8082/20/index.m3u8?token=12f795e36a229f42ec0edea64d78c438fb163199-7849b8e7872a4201cb135a121a7874d2-1598056730-1598045930&remote=103.147.163.177
+http://dflix.live:8082/20/index.m3u8?token=6e2d2bd344b58fdcc3a6fd87b2de3b1f2b9e0fcd-5e71422dac16165d2a3ca815101190be-1598214667-1598203867&remote=103.147.163.177
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports",Sony TEN 2 HD (S1)
 http://mtv.sports.bdfun.club/live/my-stream-key/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports",Sony TEN 2 HD (S2)
 http://bd.bdiptv.design:8081/web/ten2/chunks.m3u8?nimblesessionid=9098326
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports",Sony TEN 2 HD (S3 Working)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" 
+group-title="Sports",Sony TEN 2 HD (S3 Working)
 http://otv.ftpbd.net/streams/112/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports",Sony TEN 2 HD (S4 working)
-http://103.211.185.98:8082/21/index.m3u8?token=ca567b0662bbc144babcccf95446fe218ce0205c-76c97c7345a16504b948a53189ef5a67-1598207312-1598196512&remote=103.147.163.177
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports",Sony TEN 2 HD (S5 Working)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports",Sony TEN 2 HD (S4)
+http://103.211.185.98:8082/21/index.m3u8?token=c46fdb5e1ab886a9df5f16016a13ad76f34bee37-242dd38f82765c55c944601e30970af5-1598215208-1598204408&remote=103.147.163.177
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports",Sony TEN 2 HD (S5)
 http://otv.ftpbd.net/streams/112/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports",Sony TEN 2 HD (S6)
 http://bd.bdiptv.design:8081/web/ten2/chunks.m3u8?nimblesessionid=9099022
 
