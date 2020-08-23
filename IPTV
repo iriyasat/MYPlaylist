@@ -48,7 +48,7 @@ https://itpolly.iptv.digijadoo.net/live/cnn/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tl4uL9a.png" group-title="News",NHK World
 https://edge01.iptv.digijadoo.net/live/nhk_world/chunks.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/68RuKLM.png" group-title="News",DW
+#EXTINF:-1 tvg-logo="https://i.imgur.com/68RuKLM.png" group-title="News",DW
 https://itpolly.iptv.digijadoo.net/live/dw/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="Entertainment",HBO
@@ -90,16 +90,14 @@ http://dflix.live:8082/20/index.m3u8?token=6e2d2bd344b58fdcc3a6fd87b2de3b1f2b9e0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports",Sony TEN 2 HD (S1)
 http://mtv.sports.bdfun.club/live/my-stream-key/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports",Sony TEN 2 HD (S2)
-http://bd.bdiptv.design:8081/web/ten2/chunks.m3u8?nimblesessionid=9098326
+http://bd.bdiptv.design:8081/web/ten2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" 
-group-title="Sports",Sony TEN 2 HD (S3 Working)
+group-title="Sports",Sony TEN 2 HD (S3)
 http://otv.ftpbd.net/streams/112/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports",Sony TEN 2 HD (S4)
-http://103.211.185.98:8082/21/index.m3u8?token=c46fdb5e1ab886a9df5f16016a13ad76f34bee37-242dd38f82765c55c944601e30970af5-1598215208-1598204408&remote=103.147.163.177
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports",Sony TEN 2 HD (S5)
 http://otv.ftpbd.net/streams/112/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports",Sony TEN 2 HD (S5)
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports",Sony TEN 2 HD (S6)
-http://bd.bdiptv.design:8081/web/ten2/chunks.m3u8?nimblesessionid=9099022
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E6iCIUM.png" group-title="Sports",Sony TEN 3 (S1)
 http://103.84.253.5/live/fastfeed1006/index.m3u8
@@ -138,8 +136,3 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yio8nom.png" group-title="Sports",Ad Sports 4
 https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
-
-
-#EXTINF:0,AD Sports 5
-
-#EXTINF:0,AD Sports 6
