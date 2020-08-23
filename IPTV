@@ -92,8 +92,8 @@ http://mtv.sports.bdfun.club/live/my-stream-key/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports",Sony TEN 2 HD (S2)
 http://otv.ftpbd.net/streams/112/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" 
-group-title="Sports",Sony TEN 2 HD (S3)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports",Sony TEN 2 HD (S3)
+http://bd.bdiptv.design:8081/web/ten2/chunks.m3u8?nimblesessionid=9103229
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports",Sony TEN 2 HD (S4)
 
