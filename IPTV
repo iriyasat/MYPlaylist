@@ -67,7 +67,7 @@ https://itpolly.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
 http://103.211.185.98:8082/78/index.m3u8?token=6ced75d77e2f42a702006cea17910a67a82dcbd2-5a312a3c353173fbd43c5ab7cf87cd5e-1598138883-1598128083&remote=103.147.163.177
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/25ETmcG.png" group-title="Entertainment",Sony PIX HD
-http://103.211.185.98:8082/41/index.m3u8?token=6a986e313bbc4bdb49ad48c6765012c15ff3090c-bba26b1b6581d5695099496cd5fd3700-1598138978-1598128178&remote=103.147.163.177
+http://103.211.185.98:8082/41/index.m3u8?token=860e3760dc71510a44d1b01df266ad182516f49f-71cfb751598e46458f2cc47b70f11791-1598229393-1598218593&remote=103.147.163.177
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/ZeeCafeIndia.png" group-title="Entertainment",Zee Café
 http://103.211.185.98:8082/69/index.m3u8?token=0080fac6ffd0f95a1bbaa9265e3fe836e92f6547-c791f5dc9d71cc8e135b23dd2f7ffd99-1598139171-1598128371&remote=103.147.163.177
@@ -93,10 +93,10 @@ http://mtv.sports.bdfun.club/live/my-stream-key/index.m3u8
 http://103.211.185.98:8082/21/index.m3u8?token=2a803f28eb9c1350f87cd10975ab166127b5940b-8394466b62dad9f6bfcb12db219d8bc5-1598218132-1598207332&remote=103.147.163.177
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports",Sony TEN 2 HD (S3)
-http://otv.ftpbd.net/streams/112/index.m3u8
-
+http://dflix.live:8082/21/index.m3u8?token=67ff2104e4cc1f16af3a0325507255849d67fe10-f21ee69b5e0fd0353b15ec717c1918ca-1598229440-1598218640&remote=103.147.163.177
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports",Sony TEN 2 HD (S4)
+http://otv.ftpbd.net/streams/112/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports",Sony TEN 2 HD (S5)
