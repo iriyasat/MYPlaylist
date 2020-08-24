@@ -70,7 +70,7 @@ http://dflix.live:8082/78/index.m3u8?token=7ac2de4e0b2a824a2f71b12a6dd381244963d
 http://103.211.185.98:8082/41/index.m3u8?token=860e3760dc71510a44d1b01df266ad182516f49f-71cfb751598e46458f2cc47b70f11791-1598229393-1598218593&remote=103.147.163.177
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/ZeeCafeIndia.png" group-title="Entertainment",Zee Café
-http://103.211.185.98:8082/69/index.m3u8?token=0080fac6ffd0f95a1bbaa9265e3fe836e92f6547-c791f5dc9d71cc8e135b23dd2f7ffd99-1598139171-1598128371&remote=103.147.163.177
+http://103.211.185.98:8082/69/index.m3u8?token=ce4a39a1b58bd9cbb7871666a114e7181ee00818-480f3f0efba6b5c6895327feead6458f-1598272324-1598261524&remote=103.147.163.177
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mmuxT5C.png" group-title="Entertainment",Star World
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
