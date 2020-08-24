@@ -52,7 +52,7 @@ https://edge01.iptv.digijadoo.net/live/nhk_world/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/dw/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="Entertainment",HBO
-http://ccn.anytv.live:8080/hbo/tracks-v1a1/mono.m3u8
+http://otv.ftpbd.net/streams/111/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eWdROQp.png" group-title="Entertainment",Warner Bros TV
 http://ccn.anytv.live:8080/wb/tracks-v1a1/mono.m3u8
@@ -82,13 +82,14 @@ http://dflix.live:8082/23/index.m3u8?token=82358ca7ff6567581a1a0fe09f97f1608815c
 http://103.211.185.98:8082/23/index.m3u8?token=4f363cf7a7c3750ac5f5dca5c76bbf7ca0f3607c-8ab5ed45e7a2a7b3653cee0aad831530-1598068545-1598057745&remote=103.147.163.177
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sports",Sony Six HD
-http://103.84.253.5/live/fastfeed1004/index.m3u8
+http://otv.ftpbd.net/streams/106/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="Sports",Sony TEN 1 
-http://dflix.live:8082/20/index.m3u8?token=6e2d2bd344b58fdcc3a6fd87b2de3b1f2b9e0fcd-5e71422dac16165d2a3ca815101190be-1598214667-1598203867&remote=103.147.163.177
+http://otv.ftpbd.net/streams/105/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports",Sony TEN 2 HD (S1)
 http://mtv.sports.bdfun.club/live/my-stream-key/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports",Sony TEN 2 HD (S2)
 http://103.211.185.98:8082/21/index.m3u8?token=2a803f28eb9c1350f87cd10975ab166127b5940b-8394466b62dad9f6bfcb12db219d8bc5-1598218132-1598207332&remote=103.147.163.177
 
@@ -97,7 +98,6 @@ http://dflix.live:8082/21/index.m3u8?token=67ff2104e4cc1f16af3a0325507255849d67f
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports",Sony TEN 2 HD (S4)
 http://otv.ftpbd.net/streams/112/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports",Sony TEN 2 HD (S5)
 
@@ -131,7 +131,7 @@ http://novaiptv.vip:80/mos123/m123/1602
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png" group-title="Sports",Bein Sports HD 2
 http://novaiptv.vip:80/mos123/m123/1603
 
-#EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png" group-title="Sports",Bein Sports HD 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png" group-title="Sports",Bein Sports HD 3
 http://novaiptv.vip:80/mos123/m123/1604
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png" group-title="Sports",Bein Sports HD 4
@@ -152,8 +152,9 @@ http://novaiptv.vip:80/mos123/m123/1609
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/9-HD.png" group-title="Sports",Bein Sports HD 9
 http://novaiptv.vip:80/mos123/m123/1610
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Sports",
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Sports",Olympic Channel
 http://novaiptv.vip:80/mos123/m123/1611
+
 
 #EXTINF:-1,tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/03/ADSports-1.png" group-title="Sports",Ad Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
@@ -166,4 +167,3 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yio8nom.png" group-title="Sports",Ad Sports 4
 https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
-
