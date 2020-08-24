@@ -64,7 +64,7 @@ http://103.211.185.98:8082/44/index.m3u8?token=7c23537f9df7e92e7e95f43de62298b18
 https://itpolly.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/22bFS2O.png" group-title="Entertainment",& Flix HD
-http://103.211.185.98:8082/78/index.m3u8?token=6ced75d77e2f42a702006cea17910a67a82dcbd2-5a312a3c353173fbd43c5ab7cf87cd5e-1598138883-1598128083&remote=103.147.163.177
+http://dflix.live:8082/78/index.m3u8?token=7ac2de4e0b2a824a2f71b12a6dd381244963da13-9acc5fdc7e912ea28c59addef9e34ee5-1598272222-1598261422&remote=103.147.163.177
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/25ETmcG.png" group-title="Entertainment",Sony PIX HD
 http://103.211.185.98:8082/41/index.m3u8?token=860e3760dc71510a44d1b01df266ad182516f49f-71cfb751598e46458f2cc47b70f11791-1598229393-1598218593&remote=103.147.163.177
