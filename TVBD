@@ -52,7 +52,7 @@ https://edge01.iptv.digijadoo.net/live/nhk_world/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/dw/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="Entertainment",HBO
-http://otv.ftpbd.net/streams/111/index.m3u8
+http://ccn.anytv.live:8080/hbo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eWdROQp.png" group-title="Entertainment",Warner Bros TV
 http://ccn.anytv.live:8080/wb/tracks-v1a1/mono.m3u8
@@ -154,7 +154,6 @@ http://novaiptv.vip:80/mos123/m123/1610
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Sports",Olympic Channel
 http://novaiptv.vip:80/mos123/m123/1611
-
 
 #EXTINF:-1,tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/03/ADSports-1.png" group-title="Sports",Ad Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
