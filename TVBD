@@ -67,7 +67,7 @@ https://itpolly.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
 http://103.211.185.98:8082/78/index.m3u8?token=b9fbeef94431181416f8a8894e4680732aca0e17-395cecf65527ba3f0e92f9e7dd7586f8-1598476641-1598465841&remote=45.249.187.30
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/25ETmcG.png" group-title="Entertainment",Sony PIX HD
-http://103.211.185.98:8082/41/index.m3u8?token=afb3dee7d9bf73be5f8ae6129822904fd11bfb60-426875d6075d262b09942914bbd59cc0-1598476448-1598465648&remote=45.249.187.30
+http://103.49.168.172:8081/ebox/in_sonypix/chunks.m3u8?nimblesessionid=12287105&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDIwIDc6NDI6NDggUE0maGFzaF92YWx1ZT1LRmpEMDh0YXdSMXBHWnpLcmZRbnRBPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/ZeeCafeIndia.png" group-title="Entertainment",Zee Café
 http://103.211.185.98:8082/69/index.m3u8?token=ce4a39a1b58bd9cbb7871666a114e7181ee00818-480f3f0efba6b5c6895327feead6458f-1598272324-1598261524&remote=103.147.163.177
@@ -76,10 +76,10 @@ http://103.211.185.98:8082/69/index.m3u8?token=ce4a39a1b58bd9cbb7871666a114e7181
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fbqlG1Y.png" group-title="Sports",ESPN
-http://103.49.168.172:8081/ebox/espn/chunks.m3u8?nimblesessionid=10201629&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDIwIDY6MjY6MzYgUE0maGFzaF92YWx1ZT1sK0owU21mMTZaeERFREh2NTRmbWJRPT0mdmFsaWRtaW51dGVzPTI=
+http://46.166.148.163:8000/6666/6666/269
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_espn-1_m.png" group-title="Sports",ESPN Extra
-http://103.211.185.98:8082/23/index.m3u8?token=4f363cf7a7c3750ac5f5dca5c76bbf7ca0f3607c-8ab5ed45e7a2a7b3653cee0aad831530-1598068545-1598057745&remote=103.147.163.177
+http://103.49.168.172:8081/ebox/espn/chunks.m3u8?nimblesessionid=12286094&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDIwIDc6Mzk6MjAgUE0maGFzaF92YWx1ZT1ESXdkSGJJK2lYbmY0NGRlUnJid0NRPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="Sports",Sony Six HD
 http://otv.ftpbd.net/streams/106/index.m3u8
@@ -106,6 +106,9 @@ http://otv.ftpbd.net/streams/112/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E6iCIUM.png" group-title="Sports",Sony TEN 3 (S1)
 http://103.84.253.5/live/fastfeed1006/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E6iCIUM.png" group-title="Sports",Sony TEN 3 (S2)
+http://ccn.anytv.live:8080/sonyten3/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="Sports",Star Sports Select 1 HD
 http://otv.ftpbd.net/streams/113/index.m3u8
 
@@ -120,8 +123,10 @@ http://otv.ftpbd.net/streams/116/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/800px-Real_Madrid_CF.svg.png" gtoup-title="Sports",Real Madrid
 https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/800px-Real_Madrid_CF.svg.png" gtoup-title="Sports",Real Madrid EN
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
+
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/800px-Real_Madrid_CF.svg.png" gtoup-title="Sports",Real Madrid ES
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
 
